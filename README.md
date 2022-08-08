@@ -2,7 +2,10 @@
 
 # 本人自己封装的轮播图组件
 
-
+# git clone git@github.com:RASH-DongH/Rotation-chart.git 之后  
+# 请用 yarn 下载一些配置 
+# 然后 yarn  dev 启动即可
+# 或者直接 CV 代码
 
 # 反正也是ts写的有数据类型提示  也可自行更改
 
